@@ -1,0 +1,2 @@
+# TikTokToGIF
+TikTokToGIF for MacOS
